@@ -1,0 +1,21 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Node.js, Express.js and MongoDB CRUD API - Tutorial by Shivani (Hack Club)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
